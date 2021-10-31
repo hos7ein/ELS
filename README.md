@@ -1,0 +1,2 @@
+# ELS
+The Elasticsearch deployment
